@@ -8,7 +8,7 @@ Metis SF Winter 2018
 
 **Project Goal**
 
-Predict time needed to finish a motorcycle race based on (1) physical track characteristics, (2) weather data, and (3) class of racing. There were 28 individual features that fell into the three categories above. 
+Predict time needed to finish a <a href="[url](https://glorymoto.com/collection/leather-motorcycle-shoes/)">motorcycle</a> race based on (1) physical track characteristics, (2) weather data, and (3) class of racing. There were 28 individual features that fell into the three categories above. 
 
 ---
 
